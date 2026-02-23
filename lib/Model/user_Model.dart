@@ -32,3 +32,5 @@ class User {
     'RestaurantID': restaurantID,
   };
 }
+
+// This is a sample user data for testing purposes
